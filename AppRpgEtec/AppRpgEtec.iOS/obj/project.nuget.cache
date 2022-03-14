@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6GkMPTw6WPDo1eTiRqvOyjnkBxzk0uCOF8mS6a4w8UhGrrXAG5mLGTvEb9AxwYPr80kMMNEwpBQqluBqoGTsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cyber_Segurança\\Desktop\\3ºModulo_DS\\PMOBILE_2\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cyber_Segurança\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Cyber_Segurança\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
